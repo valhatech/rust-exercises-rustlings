@@ -1,3 +1,5 @@
+https://github.com/rust-lang/rustlings/tree/main/solutions
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
